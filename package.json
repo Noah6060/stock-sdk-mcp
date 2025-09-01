@@ -1,6 +1,6 @@
 {
   "name": "stock-sdk-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "\u80a1\u7968\u884c\u60c5 MCP + Skills \u5b8c\u6574\u89e3\u51b3\u65b9\u6848\uff0c\u652f\u6301 OpenClaw\u3001Cursor\u3001Claude Desktop\u3001Antigravity\u3001Gemini/Codex CLI \u7b49\u4e3b\u6d41 AI \u5de5\u5177\u3002",
   "main": "src/index.ts",
   "scripts": {
